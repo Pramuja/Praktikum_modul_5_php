@@ -9,4 +9,5 @@
 ![alt text](https://github.com/Pramuja/Praktikum_modul_5_php/blob/master/beranda.JPG)
 * Hasil Tugas.php <br>
 ![alt text](https://github.com/Pramuja/Praktikum_modul_5_php/blob/master/tugas1.JPG)<br>
-![alt text](https://github.com/Pramuja/Praktikum_modul_5_php/blob/master/tugas2.JPG)
+![alt text](https://github.com/Pramuja/Praktikum_modul_5_php/blob/master/tugas2.JPG)<br>
+![alt text](https://github.com/Pramuja/Praktikum_modul_5_php/blob/master/beranda.JPG)
